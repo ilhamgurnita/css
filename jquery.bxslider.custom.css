@@ -165,7 +165,7 @@ ul.bxslider {
   bottom: 0;
   left: 0;
   background: #666;
-  background: background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 90%);
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 90%);
   width: 100%;
 }
 .bx-wrapper .bx-caption span {
